@@ -4,6 +4,7 @@
 // @version    0.6
 // @downloadURL		https://raw.githubusercontent.com/fuzzwah/iRacing-Series-Participation/master/iRacing-Series-Participation.user.js
 // @updateURL		https://raw.githubusercontent.com/fuzzwah/iRacing-Series-Participation/master/iRacing-Series-Participation.user.js
+// @license       MIT; https://raw.githubusercontent.com/fuzzwah/iRacing-Series-Participation/master/LICENSE
 // @description  Visualize the participation (drivers and SOF) of any series in the series home page.
 // @match      https://members.iracing.com/membersite/member/SeriesNews.do*
 // @copyright  2016, Nick Thissen - 2019, Rob Crouch
