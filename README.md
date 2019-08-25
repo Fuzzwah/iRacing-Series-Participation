@@ -2,7 +2,7 @@
 
 Series Participation Visualizer is a userscript that adds an interactive graph to the Home page of every official series which shows the participation stats (meaning: the amount of drivers and the strength of field, did it split, etc) for each race. This allows you to very quickly see when a series is popular and when SOF races are. 
 
-![image](https://user-images.githubusercontent.com/658935/63655195-9f35ca80-c7c8-11e9-9535-fb749b3bda0c.png)
+![image](https://user-images.githubusercontent.com/658935/63655343-49622200-c7ca-11e9-833f-2b757f84609d.png)
 
 You can also see the Average participation per week day, averaged over the current season so far. 
 
